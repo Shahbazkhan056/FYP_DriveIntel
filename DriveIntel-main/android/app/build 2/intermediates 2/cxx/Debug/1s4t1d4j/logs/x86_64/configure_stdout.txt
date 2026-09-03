@@ -1,0 +1,3 @@
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/eapple/Documents/FYP/DriveIntel/android/app/.cxx/Debug/1s4t1d4j/x86_64

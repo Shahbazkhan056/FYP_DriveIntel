@@ -1,0 +1,7 @@
+/Users/eapple/Library/Android/sdk/cmake/3.22.1/bin/ninja \
+  -C \
+  /Users/eapple/Documents/FYP/DriveIntel/android/app/.cxx/Debug/1s4t1d4j/x86_64 \
+  appmodules \
+  react_codegen_rnscreens \
+  react_codegen_rnsvg \
+  react_codegen_safeareacontext
