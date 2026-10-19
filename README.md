@@ -872,36 +872,7 @@ pip install -r requirements.txt
 # Start the FastAPI server
 uvicorn app.main:app --host 0.0.0.0 --port 8000 --reload
 
-
 The interactive Swagger API documentation will be available at http://localhost:8000/docs.
-
-Project Team & Institutional Affiliation
-
-Institution: Department of Computer Science, University of Engineering & Technology (UET) Mardan, Pakistan
-
-Academic Session: 2022 – 2026
-
-Shahbaz Khan (Lead Developer — AI Pipeline, Embedded BLE Telematics & Hybrid Subsystem)
-
-Reg #: 22MDBCS190 | Email: shahbazktk958@gmail.com | GitHub: @Shahbazkhan056
-
-Muhammad Nouman (Full-Stack & Mobile Developer — React Native UI & State Management)
-
-Reg #: 22MDBCS323
-
-Muhammad Naveed (Backend Developer — FastAPI REST Architecture & Database Design)
-
-Reg #: 22MDBCS202
-
-Academic Supervision:
-
-Supervisor: Prof. Dr. Muhammad Usman (Chairman, Department of Computer Science, UET Mardan)
-
-FYP Coordinator: Mian Saeed Akbar (Department of Computer Science, UET Mardan)
-
-Awards & Recognition
-
-1st Place in Computer Science — TechVision Annual Project Exhibition & Competition, University of Engineering & Technology (UET) Mardan.
 
 License & Citation
 
